@@ -1,7 +1,7 @@
-# Welcome to GBA Emulator
+# School project website
 
-GBA Emulator is a free, online GBA emulator! I have 50+ Games to play!
+Website for school project.
 
-# GBA Emulator Website
+# School project site
 
-https://theclashman2.github.io/GBA-Emulator/
+https://grayball1.github.io/school-help/
